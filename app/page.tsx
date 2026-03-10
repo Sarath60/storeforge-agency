@@ -232,7 +232,7 @@ export default function Home() {
             </div>
 
             <p className="mt-8 text-sm text-white/42">
-              Built using Shopify Dawn • Mobile optimized • Clean premium black
+              Built using Shopify Dawn • Mobile optimized • Clean premium
               aesthetic
             </p>
           </div>
