@@ -232,7 +232,7 @@ export default function Home() {
             </div>
 
             <p className="mt-8 text-sm text-white/42">
-              Built using Shopify Dawn • Mobile optimized • Clean premium
+              Conversion optimized • Mobile optimized • Clean and premium
               aesthetic
             </p>
           </div>
@@ -812,7 +812,7 @@ export default function Home() {
               </h3>
 
               <p className="mt-3 text-sm leading-8 text-white/60">
-                Yes. You should have your Shopify store created already so the
+                Yes. You should have your Shopify account created already so the
                 build can be set up inside your account.
               </p>
             </div>
@@ -823,8 +823,7 @@ export default function Home() {
               </h3>
 
               <p className="mt-3 text-sm leading-8 text-white/60">
-                Yes. That is one of the main use cases. If you started with Dawn
-                and left it half-finished, this service is a good fit.
+                Yes, we'd finish up your store just with Shopify's collaborate access
               </p>
             </div>
 
@@ -845,20 +844,19 @@ export default function Home() {
               </h3>
 
               <p className="mt-3 text-sm leading-8 text-white/60">
-                Mention your requirement in the form. Starter scope is focused
-                on store build, but extra creative requirements can be reviewed.
+                Yes, we work with leading image generation AI models to generate perfect product images, hero images and logo images. 
+                Mention your requirement and we'd navigate from there
               </p>
             </div>
 
             <div className="rounded-[1.5rem] border border-white/10 bg-white/[0.03] p-6">
               <h3 className="text-lg font-semibold text-white">
-                Is the submit form working?
+                How soon can I get the store?
               </h3>
 
               <p className="mt-3 text-sm leading-8 text-white/60">
-                Yes. This version is wired to Formspree properly, includes
-                working input classes, handles loading state, success state, and
-                error state.
+                Unlike other agencies which sits on a store for a month or longer, we run on speed. We value your time and understand how important is it to launch faster
+                considering the changing global economic situation. Hence our standard SLA is always 24H.
               </p>
             </div>
           </div>
